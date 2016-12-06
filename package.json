@@ -1,0 +1,29 @@
+{
+  "name": "upmon",
+  "version": "0.1.0",
+  "description": "Send email alerts when a service is down",
+  "main": "upmon.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isdampe/upmon.git"
+  },
+  "keywords": [
+    "monitor",
+    "system",
+    "sysadmin",
+    "sysmon"
+  ],
+  "author": "isdampe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isdampe/upmon/issues"
+  },
+  "homepage": "https://github.com/isdampe/upmon#readme"
+}

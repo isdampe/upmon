@@ -1,0 +1,13 @@
+{
+	"alertEmail": "yourname@email.com",
+	"sites": [
+		{
+			"address": "http://github.com/",
+			"type": "http"
+		},
+		{
+			"address": "http://yoursite.com/",
+			"type": "http"
+		}
+	]
+}
