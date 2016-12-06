@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const fs = require('fs');
 const printf = require('util').format;
 const exec = require('child_process').exec;
